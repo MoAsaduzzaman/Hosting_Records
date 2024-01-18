@@ -11,5 +11,6 @@
 | Testimonial (devChallenges.io) | [Click Here](https://moasaduzzaman.github.io/Testimonial_Page_by_Nettie_Haynes/) | [Md Asaduzzaman](https://www.linkedin.com/in/mdasaduzzaman858/)| 
 | Blog Card (devChallenges.io) | [Click Here](https://moasaduzzaman.github.io/Minimal_Blog_Card/) | [Md Asaduzzaman](https://www.linkedin.com/in/mdasaduzzaman858/)| 
 | G3 Architects | [Click Here](https://moasaduzzaman.github.io/G3_Architects/) | [Md Asaduzzaman](https://www.linkedin.com/in/mdasaduzzaman858/)| 
+| Spotlight Explore | [Click Here](https://moasaduzzaman.github.io/Assignment-2/) | [Md Asaduzzaman](https://www.linkedin.com/in/mdasaduzzaman858/)| 
 
-Last Updated: 13 January, 2024
+Last Updated: 18 January, 2024
